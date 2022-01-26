@@ -245,8 +245,6 @@
         
    }
 
-
-
 function KillIframe(){
   if ( $("#iframe99")[0].src.indexOf("phase-1") > 0){
   	sendMessageToUnitydetail0();
