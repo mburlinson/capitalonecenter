@@ -50,9 +50,7 @@
           alert(message);
         });
       };
-      document.body.appendChild(script);
- 
-    
+      document.body.appendChild(script);   
 /*
    function receiveMessageFromUnity(txt) {
      
