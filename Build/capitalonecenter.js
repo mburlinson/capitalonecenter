@@ -30,8 +30,8 @@
           mobileWarning.style.display = "none";
         }, 5000);
       } else {
-     //  canvas.style.width = "1280px";
-     //  canvas.style.height = "720px";
+      canvas.style.width = "1280px";
+      canvas.style.height = "720px";
       }
       loadingBar.style.display = "block";
 
