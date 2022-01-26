@@ -51,7 +51,7 @@
         });
       };
       document.body.appendChild(script);   
-/*
+
    function receiveMessageFromUnity(txt) {
      
         if (txt.trim() == "over0") {
@@ -285,4 +285,3 @@ function KillIframe(){
 $(document).ready(function(){
   $("#close-page").click(function(){ KillIframe(); });
 });
-*/
