@@ -9,8 +9,8 @@
         codeUrl: buildUrl + "/CO_URP_5.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
-        productName: "Tyson Corner Center",
-        productVersion: "1.1",
+        productName: "CapOneURP",
+        productVersion: "0.1",
       };
       var container = document.querySelector("#unity-container");
       var canvas = document.querySelector("#unity-canvas");
