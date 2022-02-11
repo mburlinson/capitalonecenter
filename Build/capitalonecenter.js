@@ -2,11 +2,11 @@
       //var baseURL = "https://beta.ifmm.com";
       var buildUrl = "https://mburlinson.github.io/capitalonecenter/Build";
       var globalunityinstance = null;
-      var loaderUrl = buildUrl + "/CO_URP_5.loader.js";
+      var loaderUrl = buildUrl + "/CO_URP_11.loader.js";
       var config = {
-        dataUrl: buildUrl + "/CO_URP_5.data.unityweb",
-        frameworkUrl: buildUrl + "/CO_URP_5.framework.js.unityweb",
-        codeUrl: buildUrl + "/CO_URP_5.wasm.unityweb",
+        dataUrl: buildUrl + "/CO_URP_11.data.unityweb",
+        frameworkUrl: buildUrl + "/CO_URP_11.framework.js.unityweb",
+        codeUrl: buildUrl + "/CO_URP_11.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "CapOneURP",
